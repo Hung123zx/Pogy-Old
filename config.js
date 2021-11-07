@@ -1,14 +1,14 @@
 module.exports = {
  "verification": "",
- "description": "Pogy is a multi-purpose discord bot ready to skill up and boost up your Discord server!",
- "domain": "", // domain
+ "description": "????!",
+ "domain"domain "", // domain
  "google_analitics": "", // google analitics
  "token": process.env.TOKEN,
  "https":"https://", // leave as is
  "port":"5003",
 
- "client_id":"", // bot client ID
- "secret":"" // bot client secret for auth
+ "client_id"906536707195797544"", // bot client ID
+ "secret"7eaEbGLydy-TZrcMn5_EdNBD6rb7RsYr"" // bot client secret for auth
 
 }
 
